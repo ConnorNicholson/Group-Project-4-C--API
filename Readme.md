@@ -69,6 +69,12 @@ dotnet run
 ## Author
 * [Christiam Hernandez](https://github.com/christiamenrique)
 
+## Team Members
+* [Christiam Hernandez](https://github.com/christiamenrique)
+* [Connor Nicholson](https://github.com/ConnorNicholson)
+* [Lenny Dickey](https://github.com/LennyDickey)
+* [Wendy Deras](https://github.com/wendyyderas)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
